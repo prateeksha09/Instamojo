@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://git@github.com:prateeksha09/Instamojo.git/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://git@github.com:prateeksha09/Instamojo.git</link>
 	<description>Instamojo</description>
 	<lastBuildDate>Thu, 09 Dec 2021 03:33:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
